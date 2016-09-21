@@ -7,3 +7,5 @@
   * :file_folder: dir2-1
     * :memo: [file1.md](dir2/dir2-1/file1.md)
     * :memo: [file2.md](dir2/dir2-1/file2.md)
+* :file_folder: dir3
+  * :memo: [complicated_sections.md](dir3/complicated_sections.md)

@@ -85,3 +85,7 @@
             * [File2 Section2-2-2-2](dir2/dir2-1/file2.md#2_2_2_2)
         * [File2 Section2-3](dir2/dir2-1/file2.md#2_3)
       * File2 Section3(not linked)
+* :rage: dir3
+  * :smile: [complicated_sections.md](dir3/complicated_sections.md)
+    * [日本語を含む見出し(Section including Japanese)](dir3/complicated_sections.md#a1)
+    * [:smile: :sweat: :rage: !"#$%&'](dir3/complicated_sections.md#a2)
