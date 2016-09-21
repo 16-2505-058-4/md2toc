@@ -1,0 +1,9 @@
+* :file_folder: dir1
+  * :memo: [file1.md](dir1/file1.md)
+  * :memo: [file2.md](dir1/file2.md)
+* :file_folder: dir2
+  * :memo: [file1.md](dir2/file1.md)
+  * :memo: [file2.md](dir2/file2.md)
+  * :file_folder: dir2-1
+    * :memo: [file1.md](dir2/dir2-1/file1.md)
+    * :memo: [file2.md](dir2/dir2-1/file2.md)
